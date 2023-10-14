@@ -79,13 +79,13 @@ Jane Street Quant Trading Internship 2023
 
 ---
 
-### 例题5
+### 例题3
 
 JP Morgan Securities Services Quant Research 全职 2022 
 
-问: noodle loop
+问: given you have 3 noodles, you pick two ends randomly. if the two ends belong to the same noodle you form a loop, what is the expected number of loops for 3 noodles?
 
-答：$eigenvalue = n$
+答：这道题其实还涉及到dynamic programming， combinatorics。 假设 $E(1)$ 是expected number of loop from 1 noodle， 我们知道 $E(1)=1$ 因为一根面条的两个end必定形成一个loop。现在我们考虑两根面条 $E(2)$。 两根的情况下有四个end，我们随机抽取两个end的话有 ${n \choose x}$
 
 ---
 
