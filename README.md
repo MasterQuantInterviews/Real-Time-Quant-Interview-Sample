@@ -82,6 +82,7 @@ Jane Street Quant Trading Internship 2023
 Jane street 以及其他market maker的面试大多是2-3论的电话/线上面试+最后一轮线下的trading game。trading game主要是mock market making的小游戏。面试里的题目五花八门很难去做专门的准备，不过多数以probability/expected number为主，以及各种order of magnitude估值+快速心算。
 
 以symmetry为基础的概率题在高盛和citadel quant research实习面试里同样出现非常频繁。
+
 ---
 
 ### 例题3
