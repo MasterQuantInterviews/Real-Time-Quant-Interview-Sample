@@ -60,6 +60,8 @@ Credit Suisse Quant Summer Institue 2022 & 2023
 
 Coin toss game也是原题在2023面试里出现过。
 
+以目前情况来看这种基础的bayes formula已经是必问的题目。由于它过于简单基本上是答不上来扣分但答上来不加分的题型。所以大家务必对这种算conditional probability的题非常熟练。
+
 ---
 
 ### 例题2
@@ -79,6 +81,7 @@ Jane Street Quant Trading Internship 2023
 
 Jane street 以及其他market maker的面试大多是2-3论的电话/线上面试+最后一轮线下的trading game。trading game主要是mock market making的小游戏。面试里的题目五花八门很难去做专门的准备，不过多数以probability/expected number为主，以及各种order of magnitude估值+快速心算。
 
+以symmetry为基础的概率题在高盛和citadel quant research实习面试里同样出现非常频繁。
 ---
 
 ### 例题3
@@ -109,7 +112,7 @@ DRW Quant Researcher Internship 2023
 
 个人面试market maker的时候经常被问到某种sequence的expected number， 遇到比较复杂的sequence我们可能一步步的推导。以上视频里有解释算HH的expected number 的逻辑，那么面试的时候如果面试官问HHHHHHH，我们可以先讲一下比如算HH的方法向面试官证明我们懂得背后的逻辑，然后再用我上面写到的找重复pattern的方法去算长sequence的expected number。当问到的sequence特别复杂的时候，比如下一道来自Jane Street的一道题（例题5）， 我们可以用同样的方法很简单的算expected number。
 
-虽然很多market maker 的quant trading 和 quant researcher是分开申请的岗位，但是很多公司会让quant trader去面quant researcher， 也就是说面试的题型可能不会有太大的区别，所以面QR的同学也需要练一下自己的心算能力和提前熟悉各种distribution的properties。
+虽然很多market maker 的quant trading 和 quant researcher是分开申请的岗位，但是很多公司会让quant trader去面quant researcher， 也就是说面试的题型可能不会有太大的区别，所以面QR的同学也需要练一下自己的心算能力和提前熟悉各种distribution的properties， 比如mean median mode 的公式都需要背下来。重点要bernouli, binomial, geometric, poisson, exponential, uniform.
 
 ---
 
