@@ -111,7 +111,7 @@ Jane Street Quant Trading Internship 2020
 
 问: what is the expected number of keystrokes to type the word ABRACADABRA?
 
-答：$26^{11}$
+答：$26<sup>11</sup>$
 
 ---
 
