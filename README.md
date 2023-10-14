@@ -9,7 +9,9 @@
 
 我会在这个章节给出这几年收集到的概率方面的面试题，也会给出对应的公司和internship/全职工作岗位的名字，以及形容当时面试的流程等等。这里给出题的顺序是随机的，并不是以难度的顺序呈现。
 
-例题1: Credit Suisse Quant Summer Institue 2022 & 2023 
+###例题1  
+
+Credit Suisse Quant Summer Institue 2022 & 2023 
 
 问: You flip a coin 100 times and observe 99 heads, the probability of a biased coin is 0.95, what is the probability the coin was biased?
 
