@@ -40,7 +40,7 @@ Jane Street Quant Trading Internship 2023
 答：0.5
 
 解析： 这道题在market maker的面试里算是非常简单的，但是他的核心知识点是symmetry， 也就是说很多时候一个很复杂的情况我们可以用symmetry去把它变成一个简单的情况。比如说我们 flip odd number of times （7） 那么我们可以得到0，2，4，6
-或者1，3，5，7个head。因为 $P(1)+P(3)+P(5)+P(7) = P(0) + P(2) + P(4) + P(6)$ 那么$P（even）=P（odd)=0.5$. 这个等式成立因为$P(0)$和$P(7)$其实是一回事，如果我们flip 0个head我们其实得到了7个tail，然后$P(7 tail) = P(7 head)$
+或者1，3，5，7个head。因为 $P(1)+P(3)+P(5)+P(7) = P(0) + P(2) + P(4) + P(6)$ 那么$P（even）=P（odd)=0.5$ . 这个等式成立因为$P(0)$和$P(7)$ 其实是一回事，如果我们flip 0个head我们其实得到了7个tail，然后$P(7 tail) = P(7 head)$
 
 如果我们 flip even number of times （8），因为每次的flip是independent那么我们可以把这个拆成flip 前7此和最后一次（第八次）， 那么因为coin 是fair的所以得到even或者odd的概率还是同样的（0.5）。
 
