@@ -125,7 +125,7 @@ Jane Street Quant Trading Internship 2020
 
 ---
 
-### 例题4
+### 例题6
 
 Capula Investment Management Quant Trading Internship 2021 
 
@@ -136,6 +136,7 @@ Capula Investment Management Quant Trading Internship 2021
 解析： 这是一道非常典型的gamlbers ruin题。当我们的expected change是0的时候，我们只需要几下赢的概率是current position/total position就可以。如果coin不是fair的话会复杂的很多，详情可以看各种stats的lecture notes， 不过目前来说作者还没有见到任何公司问unfair coin的情况。Gamblers ruin的题目近几年非常受欢迎所以大家可以多背一些相关的properties。例如面试官还可以问what is the expect time for the gamlber to reacher either 0 or 100？答案是x（100-x）。我们可以提前看一些lecture notes然后几下一些这些很快能答上来的properties。 
 
 Capula的实习面试是一轮behavioural，一轮techinical，一轮head of hr 面试。Technical面试是一个小时5道题，其中只有一道概率题。
+
 ---
 
 ### 例题2
