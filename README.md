@@ -12,8 +12,6 @@
 答：$eigenvalue = n$
 
 解析：
------------------------------------------------------------------
-
 
 
 例题1: Akuna Capital Graduate Quant Researcher 2023 
