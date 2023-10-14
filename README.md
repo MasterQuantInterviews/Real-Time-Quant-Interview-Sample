@@ -3,7 +3,11 @@
 ## 指南（必读）
 这是一本专门为买卖方quant岗位面试刷题所设计的大纲。作者归纳了自2018年以来200+道买卖方（英+美）面试真题，来源包括作者及朋友的面试经历，以及作者现在作为面试官的出题思路。大家可以把这本资料理解为近五年quant英国/美国quant面试的经验汇总。取名Real Time Quant Interview也是代表了这里的题和知识点是与时俱进的，使用大家不需要担心这些题是否过时了的问题。
 
-作者介绍：本硕物理专业+博士计算机专业， 毕业后在美国前三的投行做equity quant research，现在在伦敦做futures quant trading。
+作者介绍：本硕物理专业+博士计算机专业， 毕业后在美国前三的投行做equity quant research，现在从事futures quant trading。
+
+这本资料主打的方向就是具体。很多同学反应不管是自己刷红绿皮书，还是询问朋友/同学的面试经历，还是找中介咨询都很难得到一个quant面试的具体刷题思路。比如大家都知道要刷dynamic progamming，但具体是要刷 1 dimensional DP 还是 2 dimensional DP 还是都要刷？ 如果都要那比例怎么分配？去解答这些问题我们只需要去分析历年的面试真题就能得到这几年买卖方对于不同topic的侧重比，从而大家可以根据自己的申请方向去定制刷题计划。
+
+这本资料分成三大部分：1. Probability & Statistics, 2. Dynamic Programming, 3. Other Maths and Machine Learning。 每一张之需要一个小时左右就能看完
 
 ## Q & A（必读）
 - 这本资料的意义是什么？
@@ -24,9 +28,7 @@
     - 绿皮书 A Practical guide to quant interviews
     - A collection of dice problems
     - Fifty challenging problems in probability with solutions
-
-
-
+      
 ---
 
 ## Probability & Statistics
