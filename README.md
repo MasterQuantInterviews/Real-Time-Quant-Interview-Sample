@@ -4,7 +4,6 @@
 这里会为大家介绍这本资料的意义和最佳使用方法。
 
 - 这本资料的意义是什么: 主要是为想从事quant 方面工作的同学提供一个刷题的思路和大纲
-
 - 这本资料的受众群体是谁: 受众群体主要是想从事quant 方面工作的本科，研究生，博士以及junior quant们。这本资料的主要针对卖方投行定价quant，hedge fund quant research/trading， 以及market maker trading 及类似的岗位
 
 Q: 这本资料和市面上其他quant 题库例如红皮书绿皮书有什么区别？
