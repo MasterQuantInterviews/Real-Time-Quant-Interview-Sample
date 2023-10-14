@@ -109,6 +109,8 @@ DRW Quant Researcher Internship 2023
 
 个人面试market maker的时候经常被问到某种sequence的expected number， 遇到比较复杂的sequence我们可能一步步的推导。以上视频里有解释算HH的expected number 的逻辑，那么面试的时候如果面试官问HHHHHHH，我们可以先讲一下比如算HH的方法向面试官证明我们懂得背后的逻辑，然后再用我上面写到的找重复pattern的方法去算长sequence的expected number。当问到的sequence特别复杂的时候，比如下一道来自Jane Street的一道题（例题5）， 我们可以用同样的方法很简单的算expected number。
 
+虽然很多market maker 的quant trading 和 quant researcher是分开申请的岗位，但是很多公司会让quant trader去面quant researcher， 也就是说面试的题型可能不会有太大的区别，所以面QR的同学也需要练一下自己的心算能力和提前熟悉各种distribution的properties。
+
 ---
 
 ### 例题5
