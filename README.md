@@ -3,7 +3,7 @@
 ## 指南 Q & A （必读）
 这里会为大家介绍这本资料的意义和最佳使用方法。
 
-- Q: 这本资料的意义是什么？
+Q: 这本资料的意义是什么？
 
 A： 主要是为想从事quant 方面工作的同学提供一个刷题的思路和大纲
 
@@ -28,7 +28,9 @@ A： 不能， 这本资料的最大作用是用实战经验去提供刷题思�
 Q： 这本资料的最佳使用方法是什么？
 
 A： 最佳使用方法是先读本资料的某个topic然后去以下（或其他）题库寻找类似的题去刷：
--
+- 绿皮书 A Practical guide to quant interviews
+- A collection of dice problems
+- Fifty challenging problems in probability with solutions
 
 ## Probability & Statistics
 统计方面的题不管是在卖方还是买方都是很重要的一个环节。在投行Quant面试里统计/概率面试题相对来讲会简单一些。投行的Quant比较注重于数理和编程能力的全面性，因此问的问题也广度大于深度。对于hedge fund来讲概率题的难度方差比较大。而对market maker （例如optiver）来讲概率题+心算能力会是面试的重要考点。因此对于刷概率题的侧重比则需要看申请的是哪种类型的公司。  
