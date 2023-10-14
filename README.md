@@ -7,7 +7,7 @@
 
 这个章节包含了投行，fund，以及market maker这三四年的面试真题并且分析所需要的知识点和出题逻辑等。刷题的数量不等于刷题的效率，从一道真实面试题我们可以分析总结有哪些知识点我们需要背下来，以及不同知识点的重要性和题型的规律。以概率题为例子，近几年的面试题通常为两种， 一种是面试官会形容一个scenario然后要求candidate算某个outcome的probability， 而另外一种是算一种或多种outcome的expected value/time 等等。能够通过分析真实面试题而找出这些出题规律的效率会远远高于从一些题库中大量但没有重点的刷很多可能面试里永远不会出现的题型。  
 
-我会在这个章节给出这几年收集到的概率方面的面试题，也会给出对应的公司和internship/全职工作岗位的名字，以及形容当时面试的流程等等。这里给出题的顺序是随机的，并不是以难度的顺序呈现
+我会在这个章节给出这几年收集到的概率方面的面试题，也会给出对应的公司和internship/全职工作岗位的名字， 面试流程方面的信息如果有我也会列出。这里给出题的顺序是随机的，并不是以难度的顺序呈现.
 
 ---
 
@@ -21,9 +21,57 @@ Credit Suisse Quant Summer Institue 2022 & 2023
 
 解析：这道题是绿皮书 A Practical guide to quant interview里面的原题， 并且在credit suisse面试里两年出现了两次完全一样的。Credit Suisse quant summer institute是第一轮电话面试+第二轮assessment centre。
 
+第一轮大概一个小时左右并且包含了大概四道数学题。一般是一道统计题+两道stochasic+一道随机出的算法/口述编程题。第一轮有很大概率会从绿皮书里直接抄题。
+
+第二轮AC是四个面试，每个面试一个面试官。形式基本和第一轮差不多，一般每个面试3道题左右，但是topic非常广，覆盖了brain teaser，概率题，随机微积分，和现场编程。编程主要以dynamic progamming为主，这个会在后面系统总结。
+
+对于Credit suisse的quant summer institute的概率面试题 个人给出的意见是刷绿皮书里面74页的All girl world， Unfair coin， 
+
+
+
 ---
 
 ### 例题2
+
+Jane Street Quant Trading Internship 2023 
+
+问: You flip a fair coin a large number of times, what is the probability of getting an even number of heads?
+
+答：$eigenvalue = n$
+
+---
+
+### 例题2
+
+DRW Quant Researcher Internship 2023 
+
+问: You have a fair coin and you toss 8 times and compute the product, what is the expected value of this product? what is the expected and median number of heads?
+
+答：$eigenvalue = n$
+
+---
+
+### 例题2
+
+Man Group Machine Learning Internship 2023 
+
+问: What is the probability of winning a tennis game in two rounds given the probability of winning each round is P? 
+
+答：$eigenvalue = n$
+
+---
+
+### 例题3
+
+JP Morgan Quantitative Analytics Associate Programme – PhD Off-Cycle Internship 2022
+
+问: what is the distribution of the sum of two standard uniform distributions and what is the probability of this random variable being less than 0?
+
+答：$eigenvalue = n$
+
+---
+
+### 例题3
 
 Akuna Capital Graduate Quant Researcher 2023 
 
