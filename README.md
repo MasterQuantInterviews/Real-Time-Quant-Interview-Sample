@@ -111,7 +111,9 @@ Jane Street Quant Trading Internship 2020
 
 问: what is the expected number of keystrokes to type the word ABRACADABRA?
 
-答：$26<sup>11</sup>$
+答：26<sup>11</sup> + 26<sup>4</sup> + 26
+
+解析：这道题是例题4的难度加长版。以个人经验来看这几家market maker （optiver， flow traders， jane street， drw等）里面jane street的题普遍难度会高一等。不过用例题4里提到的方法我们只需要找到首位重复的pattern即可。直接打abracadabra的概率是（1/26<sup>11</sup>所以expected number是26<sup>11</sup>. 可以看到后面的ABRA也可以作为整个sequence的开始，所以要加上26<sup>4</sup>，最后的字母A也可以作为sequence的开始所以最后加上26.   
 
 ---
 
