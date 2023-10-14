@@ -21,8 +21,11 @@ Credit Suisse Quant Summer Institue 2022 & 2023
 
 解析：这道题是绿皮书 A Practical guide to quant interview里面的原题， 并且在credit suisse面试里两年出现了两次完全一样的。Credit Suisse quant summer institute是第一轮电话面试+第二轮assessment centre。
 
+---
 
-例题1: Akuna Capital Graduate Quant Researcher 2023 
+### 例题2
+
+Akuna Capital Graduate Quant Researcher 2023 
 
 问: What is the eigenvalue of an $n \times n$ matrix with all 1s
 
