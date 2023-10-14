@@ -44,6 +44,28 @@ Jane Street Quant Trading Internship 2023
 
 如果我们 flip even number of times （8），因为每次的flip是independent那么我们可以把这个拆成flip 前7此和最后一次（第八次）， 那么因为coin 是fair的所以得到even或者odd的概率还是同样的（0.5）。
 
+如此可见用symmetry可以把很多复杂的问题简单化。很多market maker问的概率题听着很复杂但其实可以用symmetry换一种方法理解并解答。Symmetry在绿皮书里的题个人推荐61页的Coin toss game。很多时候类似的面试题会比较两个事物或者人然后其中一个比另外一个多出一些东西。那我们首先要做的是问如果两个人/物是完全相等的会不会影响概率，如果不影响那么我们可以只考虑多出来的那一部分，比如一个人比另外一个人多了n个coin其他的都一样那么我们只需要考虑多出来的n个coin的event的概率。
+
+---
+
+### 例题5
+
+JP Morgan Securities Services Quant Research 全职 2022 
+
+问: noodle loop
+
+答：$eigenvalue = n$
+
+---
+
+### 例题4
+
+Capula Investment Management Quant Trading Internship 2021 
+
+问: gamblers ruin
+
+答：$eigenvalue = n$
+
 ---
 
 ### 例题2
