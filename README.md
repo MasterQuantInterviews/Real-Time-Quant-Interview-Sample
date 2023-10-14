@@ -31,6 +31,8 @@ Akuna Capital Graduate Quant Researcher 2023
 
 答：$eigenvalue = n$
 
+
+
 解析：
 
 
