@@ -93,6 +93,30 @@ JP Morgan Securities Services Quant Research 全职 2022
 
 ### 例题4
 
+DRW Quant Researcher Internship 2023 
+
+问: what is the expected number of throws to get three consecutive heads using a fair coin?
+
+答：14, 这种类型的题目个人认为可以用一个fair casino 的例子去理解，详情在这个视频：https://www.youtube.com/watch?v=t8xqMxlZz9Y
+
+解析： 这种以骰子或硬币为基础的probabiliy/expected number题是很多market maker 的最爱。这道题算是这种类型的里面比较简单的一道。这种题一旦找到规律非常好答， 最简单的方法就是去找重复的pattern然后把他们的expected number 加到一起。以HHH为例，HHH 的概率是1/8 所以expected number是8，但是我们发现从第二个字母开始的HH也可以作为HHH的开始，HH的概率是1/4所以expected number 是4. 最后一个H 也可以是HHH的开始所以又多了1/（1/2）=2. 把这三个term加到一起就是8+4+2=14. 
+
+个人面试market maker的时候经常被问到某种sequence的expected number， 遇到比较复杂的sequence我们可能一步步的推导。以上视频里有解释算HH的expected number 的逻辑，那么面试的时候如果面试官问HHHHHHH，我们可以先讲一下比如说算HH的逻辑向面试官证明我们懂得背后的逻辑，然后再用我上面写到的找重复pattern的方法去算长sequence的expected number。当问到的sequence特别复杂的时候，比如下一道来自Jane Street的一道题（例题5）， 我们可以用同样的方法很简单的算expected number。
+
+---
+
+### 例题5
+
+Jane Street Quant Trading Internship 2020 
+
+问: what is the expected number of keystrokes to type the word ABRACADABRA?
+
+答：$26^11$
+
+---
+
+### 例题4
+
 Capula Investment Management Quant Trading Internship 2021 
 
 问: gamblers ruin
