@@ -91,7 +91,7 @@ JP Morgan Securities Services Quant Research 全职 2022
 
 问: given you have 3 noodles, you pick two ends randomly. if the two ends belong to the same noodle you form a loop, what is the expected number of loops for 3 noodles?
 
-答：这道题其实还涉及到dynamic programming， combinatorics。 假设 $E(1)$ 是expected number of loop from 1 noodle， 我们知道 $E(1)=1$ 因为一根面条的两个end必定形成一个loop。现在我们考虑两根面条 $E(2)$。 两根的情况下有四个end，我们随机抽取两个end的话有 ${4 \choose 2} = 6$ 中抓法。其中两种可能可以让我们形成loop：也就是我们抓了第一根面条的两个end或者第二个面条的两个end。所以我们形成新loop的概率是2/6. 剩下的四种抓法不管怎么都不会有新的loop所以结果还是只有一个loop。 那么 $E(2) = 1/3(E(1) + 1) + 2/3E(1)$. 以此类推我们可以用同样的方法去算任何的n，我们只需要知道 $E(n-1)$ 然后去算形成下一个新loop的概率。
+答：这道题其实还涉及到dynamic programming， combinatorics。 假设 $E(1)$ 是expected number of loop from 1 noodle， 我们知道 $E(1)=1$ 因为一根面条的两个end必定形成一个loop。现在我们考虑两根面条 $E(2)$。 两根的情况下有四个end，我们随机抽取两个end的话有 ${4 \choose 2} = 6$ 种抓法。其中两种可能可以让我们形成loop：也就是我们抓了第一根面条的两个end或者第二个面条的两个end。所以我们形成新loop的概率是2/6. 剩下的四种抓法不管怎么都不会有新的loop所以结果还是只有一个loop。 那么 $E(2) = 1/3(E(1) + 1) + 2/3E(1)$. 以此类推我们可以用同样的方法去算任何的n，我们只需要知道 $E(n-1)$ 然后去算形成下一个新loop的概率。
 
 解析：由此可见，大部分算expected number/value的题都可以用dynamic programming 去得到答案。最好的方法是去画一个图，每个node是一个state （比如说一个/两个loop）然后每两个node之间的connection都有相对应的概率。这样可以很容易看到从一个node出发能达到的下一个node有哪些。Dynamic programming的精髓就是每一个问题都有一个base case， 这里则是 $E(1) = 1$。 这种base case的答案普遍非常简单，根据这个简单的base case我们可以一步步往后推到我们想要的n。
 
